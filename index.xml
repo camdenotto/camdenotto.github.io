@@ -351,7 +351,7 @@ font-style: inherit;">labs</span>(</span>
 background-color: null;
 font-style: inherit;">x=</span><span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"Odds"</span>, </span>
+font-style: inherit;">"Betting Odds"</span>, </span>
 <span id="cb1-40">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">y=</span><span class="st" style="color: #20794D;
@@ -791,7 +791,7 @@ font-style: inherit;">"2020 Conference Power Ranking"</span>,</span>
 background-color: null;
 font-style: inherit;">subtitle =</span> <span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"SOS and SRS favor the Big Ten"</span>,</span>
+font-style: inherit;">"Measuring SOS and SRS across conferences."</span>,</span>
 <span id="cb2-27">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">caption =</span> <span class="st" style="color: #20794D;
@@ -1211,7 +1211,7 @@ font-style: inherit;">"Recreate the Season That Never Finished"</span>,</span>
 background-color: null;
 font-style: inherit;">subtitle =</span> <span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"Kansas cuts down the nets when SRS and SOS tell the story"</span>,</span>
+font-style: inherit;">"From Coast to Coast, SOS and SRS have KU in the top spot."</span>,</span>
 <span id="cb3-31">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">caption =</span> <span class="st" style="color: #20794D;
@@ -2760,7 +2760,7 @@ font-style: inherit;">"Jayhawks are a Lock"</span>,</span>
 background-color: null;
 font-style: inherit;">subtitle =</span> <span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"AP Poll and Coaches Poll have Kansas on top"</span>,</span>
+font-style: inherit;">"Kansas is the clear favorite in both the Coaches and AP polls."</span>,</span>
 <span id="cb4-71">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">caption =</span> <span class="st" style="color: #20794D;
