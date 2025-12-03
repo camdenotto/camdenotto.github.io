@@ -382,15 +382,15 @@ font-style: inherit;">"Who is in the hunt to claim March?"</span>,</span>
 background-color: null;
 font-style: inherit;">subtitle =</span> <span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"According to Vegas the betting odds had the Spartans leading the way the in the</span><span class="sc" style="color: #5E5E5E;
+font-style: inherit;">"According to Vegas the betting odds had the Spartans leading the way the in</span><span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">\n</span><span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">2020 CBB Pre-Season Odds. The smaller the numbers, the better the chance</span><span class="sc" style="color: #5E5E5E;
+font-style: inherit;"> the 2020 CBB Pre-Season Odds. The smaller the numbers, the better the</span><span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">\n</span><span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">was to win it all, according to odd makers."</span>,</span>
+font-style: inherit;">chance was to win it all, according to odd makers."</span>,</span>
 <span id="cb1-45">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">caption =</span> <span class="st" style="color: #20794D;
@@ -1235,11 +1235,11 @@ font-style: inherit;">"Recreating the season that never finished."</span>,</span
 background-color: null;
 font-style: inherit;">subtitle =</span> <span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"By playing the best teams and winning by the largest margins, Kansas comes out</span><span class="sc" style="color: #5E5E5E;
+font-style: inherit;">"By playing the best teams and winning by the largest margins, Kansas comes</span><span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">\n</span><span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">on top in both strength of schedule and the simple rating system."</span>,</span>
+font-style: inherit;">out on top in both strength of schedule and the simple rating system."</span>,</span>
 <span id="cb3-31">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">caption =</span> <span class="st" style="color: #20794D;
@@ -2763,7 +2763,7 @@ font-style: inherit;">labs</span>(</span>
 background-color: null;
 font-style: inherit;">x=</span><span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"Rank"</span>, </span>
+font-style: inherit;">" "</span>, </span>
 <span id="cb4-64">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">y=</span><span class="st" style="color: #20794D;
@@ -2788,11 +2788,11 @@ font-style: inherit;">"Jayhawks are a lock to take home the crown."</span>,</spa
 background-color: null;
 font-style: inherit;">subtitle =</span> <span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"Throughout the entire season, Kansas stays a top team in both the coaches and</span><span class="sc" style="color: #5E5E5E;
+font-style: inherit;">"Throughout the entire season, Kansas stays a top team in both the coaches</span><span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">\n</span><span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">assosiated press polls. In the end, the Jayhawks finish ranked first in both."</span>,</span>
+font-style: inherit;">and assosiated press polls. In the end, the Jayhawks finish ranked first in both."</span>,</span>
 <span id="cb4-71">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">caption =</span> <span class="st" style="color: #20794D;
