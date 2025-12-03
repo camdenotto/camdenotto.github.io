@@ -190,7 +190,9 @@ font-style: inherit;">data=</span>top10, <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
 background-color: null;
-font-style: inherit;">y=</span>School, <span class="at" style="color: #657422;
+font-style: inherit;">y=</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">reorder</span>(School,Odds), <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">x=</span>Odds), <span class="at" style="color: #657422;
 background-color: null;
@@ -211,7 +213,9 @@ font-style: inherit;">data=</span>KU, <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
 background-color: null;
-font-style: inherit;">y=</span>School, <span class="at" style="color: #657422;
+font-style: inherit;">y=</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">reorder</span>(School,Odds), <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">x=</span>Odds), <span class="at" style="color: #657422;
 background-color: null;
@@ -236,7 +240,9 @@ font-style: inherit;">data=</span>DU, <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
 background-color: null;
-font-style: inherit;">y=</span>School, <span class="at" style="color: #657422;
+font-style: inherit;">y=</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">reorder</span>(School,Odds), <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">x=</span>Odds), <span class="at" style="color: #657422;
 background-color: null;
@@ -261,7 +267,9 @@ font-style: inherit;">data=</span>KNU, <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
 background-color: null;
-font-style: inherit;">y=</span>School, <span class="at" style="color: #657422;
+font-style: inherit;">y=</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">reorder</span>(School,Odds), <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">x=</span>Odds), <span class="at" style="color: #657422;
 background-color: null;
@@ -286,7 +294,9 @@ font-style: inherit;">data=</span>MSU, <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
 background-color: null;
-font-style: inherit;">y=</span>School, <span class="at" style="color: #657422;
+font-style: inherit;">y=</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">reorder</span>(School,Odds), <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">x=</span>Odds), <span class="at" style="color: #657422;
 background-color: null;
@@ -367,12 +377,16 @@ font-style: inherit;">plot_annotation</span>(</span>
 background-color: null;
 font-style: inherit;">title =</span> <span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"A Look at the 2020 CBB Pre-Season Odds"</span>,</span>
+font-style: inherit;">"Who is in the hunt to claim March?"</span>,</span>
 <span id="cb1-44">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">subtitle =</span> <span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"Who is in the hunt to claim March?"</span>,</span>
+font-style: inherit;">"According to Vegas the betting odds had the Spartans leading the way the in the</span><span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">\n</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">2020 CBB Pre-Season Odds. The smaller the numbers, the better the chance was/nto win it all, according to odd makers."</span>,</span>
 <span id="cb1-45">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">caption =</span> <span class="st" style="color: #20794D;
@@ -786,12 +800,16 @@ font-style: inherit;">plot_annotation</span>(</span>
 background-color: null;
 font-style: inherit;">title =</span> <span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"Breaking Down the 2020 Conference Power Rankings"</span>,</span>
+font-style: inherit;">"Breaking down the 2020 conference power rankings"</span>,</span>
 <span id="cb2-26">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">subtitle =</span> <span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"Measuring SOS and SRS across conferences."</span>,</span>
+font-style: inherit;">"When measuring strength of schedule and the simple rating system, the Big 10</span><span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">\n</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">and Big 12 show their dominance."</span>,</span>
 <span id="cb2-27">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">caption =</span> <span class="st" style="color: #20794D;
@@ -999,7 +1017,7 @@ font-style: inherit;">y=</span>SRS), <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">color =</span> <span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"#E41A1C"</span>) <span class="sc" style="color: #5E5E5E;
+font-style: inherit;">"darkgrey"</span>) <span class="sc" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;">+</span></span>
 <span id="cb3-15">  <span class="fu" style="color: #4758AB;
@@ -1115,9 +1133,9 @@ font-style: inherit;">nudge_y=</span><span class="dv" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">2</span>, <span class="at" style="color: #657422;
 background-color: null;
-font-style: inherit;">size =</span> <span class="fl" style="color: #AD0000;
+font-style: inherit;">size =</span> <span class="dv" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">2.5</span>, <span class="at" style="color: #657422;
+font-style: inherit;">4</span>, <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">color =</span> <span class="st" style="color: #20794D;
 background-color: null;
@@ -1142,9 +1160,9 @@ font-style: inherit;">nudge_y=</span><span class="dv" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">2</span>, <span class="at" style="color: #657422;
 background-color: null;
-font-style: inherit;">size =</span> <span class="fl" style="color: #AD0000;
+font-style: inherit;">size =</span> <span class="dv" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">2.5</span>, <span class="at" style="color: #657422;
+font-style: inherit;">4</span>, <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">color =</span> <span class="st" style="color: #20794D;
 background-color: null;
@@ -1165,13 +1183,15 @@ font-style: inherit;">y=</span>SRS, <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">label=</span>School), <span class="at" style="color: #657422;
 background-color: null;
-font-style: inherit;">nudge_y=</span><span class="fl" style="color: #AD0000;
+font-style: inherit;">nudge_y=</span><span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">-</span><span class="fl" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">1.5</span>, <span class="at" style="color: #657422;
 background-color: null;
-font-style: inherit;">size =</span> <span class="fl" style="color: #AD0000;
+font-style: inherit;">size =</span> <span class="dv" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">2.5</span>, <span class="at" style="color: #657422;
+font-style: inherit;">4</span>, <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">color =</span> <span class="st" style="color: #20794D;
 background-color: null;
@@ -1206,12 +1226,16 @@ font-style: inherit;">plot_annotation</span>(</span>
 background-color: null;
 font-style: inherit;">title =</span> <span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"Recreating the Season That Never Finished"</span>,</span>
+font-style: inherit;">"Recreating the season that never finished."</span>,</span>
 <span id="cb3-30">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">subtitle =</span> <span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"From Coast to Coast, SOS and SRS have KU in the top spot."</span>,</span>
+font-style: inherit;">"By playing the best teams and winning by the largest margins, Kansas comes out</span><span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">\n</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">on top in both strength of schedule and the simple rating system."</span>,</span>
 <span id="cb3-31">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">caption =</span> <span class="st" style="color: #20794D;
@@ -2755,12 +2779,16 @@ font-style: inherit;">plot_annotation</span>(</span>
 background-color: null;
 font-style: inherit;">title =</span> <span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"Jayhawks are a Lock"</span>,</span>
+font-style: inherit;">"Jayhawks are a lock to take home the crown."</span>,</span>
 <span id="cb4-70">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">subtitle =</span> <span class="st" style="color: #20794D;
 background-color: null;
-font-style: inherit;">"Kansas is the clear favorite in both the Coaches and AP polls."</span>,</span>
+font-style: inherit;">"Throughout the entire season, Kansas stays a top team in both the coaches and</span><span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">\n</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">assosiated press polls. In the end, the Jayhawks finish ranked first in both."</span>,</span>
 <span id="cb4-71">    <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">caption =</span> <span class="st" style="color: #20794D;
